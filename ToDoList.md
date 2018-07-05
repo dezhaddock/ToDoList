@@ -11,3 +11,4 @@
 - [x] ~~Get Engineering fix toilet in FS Chain is broken~~
 - [ ] Get Engineering fix phone - keeps ringing to my bedroom washroom :phone:
 - [x] ~~Book Car wash for Maybach~~ :car:
+- [ ] Grid lighting payment - forwarded to HY
